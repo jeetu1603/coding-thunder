@@ -1,0 +1,21 @@
+{
+    "params": 
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/coding_thunder",
+        "prod_uri": "",
+        "tw_url": "https://twitter.com/ThePSF",
+        "fb_url": "https://www.facebook.com/pythonlang",
+        "gh_url": "https://github.com/pallets/flask",
+        "blog_name": "Coding Thunder",
+        "tagline": "A Blog for Programmers",
+        "gmail_id": "your-email@gmail.com",
+        "gmail_pass": "your-password",
+        "about_text": "Coding Thunder is a blog website for professional and enthusiast programmers. It is the flagship site of the iBlog, created in 2021 by Jeetu Bangari. It features blogs on a wide range of topics in computer programming.",
+        "no_of_posts": 3,
+        "login_img": "login.png",
+        "admin_user": "jeetu",
+        "admin_pass": "12345",
+        "upload_location": "D:\\tech blog\\static\\assets\\img"
+    }
+}
